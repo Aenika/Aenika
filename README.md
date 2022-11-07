@@ -1,5 +1,5 @@
 ### Hi there 👋 
-{![Typing SVG](https://readne-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Victoria+Titova)](https://git.io/typing-svg)
+[![Typing SVG](https://readne-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Victoria+Titova)](https://git.io/typing-svg)
 
 <!--
 **Aenika/Aenika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Python 
-📫 How to reach me: krilatixnet@yandex.ru
+- 🌱 I’m currently learning Python 
+- 📫 How to reach me: krilatixnet@yandex.ru
