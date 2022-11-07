@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me: krilatixnet@yandex.ru
+- 🌱 I’m currently learning Python 🐍
+- 📫 How to reach me: krilatixnet@yandex.ru ✉
