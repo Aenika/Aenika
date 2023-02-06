@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Python 🐍
+- ⚡ I know: Python3, Django, DRF(Django REST Framework), SQLite, OOP
 - 📫 How to reach me: krilatixnet@yandex.ru ✉
 - 💬 Telegram @Aennika
